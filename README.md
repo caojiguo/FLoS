@@ -1,6 +1,6 @@
 This repository consists of an R package for the proposed functional L-optimality subsampling and the coding for the simulation studies in the manuscript "Functional L-Optimality Subsampling for Functional Generalized Linear Models with Massive Data" by Hua Liu, Jinhong You and Jiguo Cao. 
 
-1. Rpackage: the folder consists of an R package "SubsamplingFunPredictors_0.1.0.tar.gz".
+1. "SubsamplingFunPredictors_0.1.0.tar.gz": the zipped folder of the R package.
 
 2. Simulation I: the R code for the simulation I in the manuscript.
 
